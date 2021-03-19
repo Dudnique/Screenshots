@@ -1,0 +1,2 @@
+# Screenshots
+Screenshots from courses
